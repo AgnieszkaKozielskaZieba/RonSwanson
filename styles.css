@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url("https://fonts.googleapis.com/css?family=Roboto");
 
 body {
-  font-family: 'Roboto';
+  font-family: "Roboto";
   color: #2c3e50;
   text-align: center;
 }
@@ -15,7 +15,6 @@ body {
   justify-content: space-around;
   flex-wrap: wrap;
 }
-
 
 button {
   margin-top: 20px;
@@ -36,9 +35,7 @@ button {
   cursor: pointer;
   -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
-      font-family: 'Roboto', sans-serif;
-
-
+  font-family: "Roboto", sans-serif;
 }
 
 button:hover {
